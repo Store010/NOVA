@@ -1,0 +1,183 @@
+{
+  "updated": "2026-11-07T01:16:41.352Z",
+  "cats": [
+    {
+      "id": "skin",
+      "en": "Skincare",
+      "ar": "سكين كير"
+    },
+    {
+      "id": "hair",
+      "en": "Hair care",
+      "ar": "هير كير"
+    },
+    {
+      "id": "cosm",
+      "en": "Cosmetics",
+      "ar": "كوزمتكس"
+    },
+    {
+      "id": "acc",
+      "en": "Accessories",
+      "ar": "اكسسوارز"
+    }
+  ],
+  "prods": [
+    {
+      "id": 1,
+      "en": "Vitamin C serum",
+      "ar": "سيروم فيتامين سي",
+      "cat": "skin",
+      "g": "u",
+      "price": 350,
+      "color": "#e0a526",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 2,
+      "en": "Gentle face wash",
+      "ar": "غسول وجه لطيف",
+      "cat": "skin",
+      "g": "w",
+      "price": 180,
+      "color": "#26b899",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 3,
+      "en": "Nourishing hair oil",
+      "ar": "زيت شعر مغذي",
+      "cat": "hair",
+      "g": "w",
+      "price": 220,
+      "color": "#8b5cf6",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 4,
+      "en": "Silk hair mask",
+      "ar": "ماسك شعر حريري",
+      "cat": "hair",
+      "g": "w",
+      "price": 260,
+      "color": "#f0669f",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 5,
+      "en": "Matte lipstick",
+      "ar": "روج مات",
+      "cat": "cosm",
+      "g": "w",
+      "price": 150,
+      "color": "#e0356f",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 6,
+      "en": "Volume mascara",
+      "ar": "ماسكارا",
+      "cat": "cosm",
+      "g": "w",
+      "price": 170,
+      "color": "#4a3470",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 7,
+      "en": "Pearl hair clip",
+      "ar": "كليب لؤلؤ",
+      "cat": "acc",
+      "g": "w",
+      "price": 90,
+      "color": "#a87be0",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 8,
+      "en": "Gold hoop earrings",
+      "ar": "حلق دائري ذهبي",
+      "cat": "acc",
+      "g": "w",
+      "price": 130,
+      "color": "#c9911d",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 9,
+      "en": "Beard oil",
+      "ar": "زيت لحية",
+      "cat": "hair",
+      "g": "m",
+      "price": 200,
+      "color": "#7a4b2a",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 10,
+      "en": "Charcoal face wash",
+      "ar": "غسول فحم للوجه",
+      "cat": "skin",
+      "g": "m",
+      "price": 170,
+      "color": "#2f4a5e",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 11,
+      "en": "Signature cologne",
+      "ar": "كولونيا",
+      "cat": "cosm",
+      "g": "m",
+      "price": 480,
+      "color": "#1f5f73",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "id": 12,
+      "en": "Leather bracelet",
+      "ar": "استيك جلد",
+      "cat": "acc",
+      "g": "m",
+      "price": 110,
+      "color": "#5b3a29",
+      "img": "",
+      "z": 100,
+      "x": 50,
+      "y": 50
+    }
+  ]
+}
